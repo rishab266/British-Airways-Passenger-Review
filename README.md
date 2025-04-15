@@ -46,4 +46,4 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 ## License
 
-[Specify the license for your project, e.g., MIT License]
+[MIT License]
